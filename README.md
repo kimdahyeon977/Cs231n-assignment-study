@@ -1,4 +1,4 @@
-# :unicorn : Cs231n assignment 스터디 :unicorn :  
+# :unicorn: Cs231n assignment 스터디 :unicorn:  
  김다현, 홍일도 , 김성훈, 권소현, 이주안
 - - -
 <h1>Intro</h1> 
