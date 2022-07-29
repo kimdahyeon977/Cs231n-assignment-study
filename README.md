@@ -5,7 +5,6 @@
 
 
 - - -
- <h2>:exclamation:Master branch가 아닌 dev branch에서 팀원들의 코드와 진행 사항을 알 수 있습니다!!!!</h2>  
  
 **Cs231n study** 내용을 정리한 레포입니다.  
 **팀스터디**로 진행한 내용은 assignment 수행이고 개인적으로 **학습한 내용**들은 이론정리입니다.
